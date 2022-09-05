@@ -1,0 +1,39 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>標題在這裡</title>
+</head>
+ 
+<body bgcolor="#E4FDE1">
+    嗨老師 <br>
+    這是淡江大學的<a href="https://www.tku.edu.tw/" target="abc">首頁</a>（絕對網址）<br>
+    <img src="http://n.sinaimg.cn/sinacn20190814ac/332/w650h482/20190814/58cc-ichcymv1240196.png" height="123"><br><br>
+
+    教科系必修課
+<ul>
+    <li>大一
+        <ol>
+            <li>程式設計與實習</li>
+            <li>教育科技概論</li>
+            <li>中國語文能力表達</li>	
+            <li>數位影像處理與實習</li>
+            <li>中國語文能力表達</li>
+        </ol>
+    </li>
+    <li>大二
+        <ol>
+            <li>需求分析</li>
+            <li>英文</li>
+        </ol>
+    </li>
+    <li>大三
+        <ol>
+            <li>互動教材設計與實習</li>
+            <li>數位學習導入與經營</li>
+        </ol>
+    </li>
+</ul>
+
+</body>
+ 
+</html>
